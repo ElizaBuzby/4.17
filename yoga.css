@@ -6,7 +6,8 @@ body {font-family: Verdana, arial, sans-serif;
 header {background-image: url(lilyheader.jpg);
     background-repeat: no-repeat;
     background-position: right;
-    height: 150px;}
+    height: 150px;
+    background-color: #9bC1C2;}
 h1 {padding-top: 50px;
     padding-left: 2em;}
 nav {text-align: center;
