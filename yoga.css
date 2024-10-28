@@ -4,7 +4,9 @@ body {font-family: Verdana, arial, sans-serif;
     margin-right: auto;
     width: 80%;}
 header {background-color: #9bC1C2;
-    background-image: url(lilyheader.jpg) no-repeat right;
+    background-image: url(lilyheader.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
     height: 150px;}
 h1 {padding-top: 50px;
     padding-left: 2em;}
